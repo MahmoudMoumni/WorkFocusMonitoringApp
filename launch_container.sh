@@ -9,4 +9,4 @@ xhost +local:docker
 # Run the Docker container with the specified parameters
 docker run -it --rm --device=/dev/video0 --privileged -e DISPLAY=$DISPLAY \
     -v /tmp/.X11-unix:/tmp/.X11-unix --runtime nvidia --network host \
-    -v "$installation_path:/app/src" tf_mediapipe_jetson-nano
+    -v "$installation_path:/app/src" mahmoudmoumni/tf_mediapipe_jetson-nano:latest
