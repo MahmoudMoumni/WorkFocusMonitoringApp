@@ -7,7 +7,7 @@ I basically check if the user is holding his mobile phone using yolov4-tiny mode
 
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/ZHPmhk4Sm3Q/0.jpg)](https://www.youtube.com/watch?v=ZHPmhk4Sm3Q)
+[![Watch the video](https://img.youtube.com/vi/ZHPmhk4Sm3Q/5.jpg)](https://www.youtube.com/watch?v=ZHPmhk4Sm3Q)
 
 
 
