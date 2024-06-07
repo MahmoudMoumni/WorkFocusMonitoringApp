@@ -1,5 +1,12 @@
-### Steps to run the app
+# Introduction
+Computer vision based app which aims at measuring the percentage of user's focus on work and calculates the distraction time either by using mobile phone, not looking at work environment.
 
+I used the yolov4-tiny tensorflow implementation inspired from this repo :"https://github.com/hunglc007/tensorflow-yolov4-tflite"
+I basically check if the user is holding his mobile phone using yolov4-tiny model and check if the user is looking at work environment by both eyes detection using mediapipe.
+
+This project can be improved later by using tensorrt optimisation .
+
+# Steps to run the app
 ## clone your repo 
 Clone your repository and navigate into it.
 
