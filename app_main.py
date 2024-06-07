@@ -13,12 +13,6 @@ from tensorflow.python.saved_model import tag_constants
 from PIL import Image
 import cv2
 import numpy as np
-
-
-import os
-import cv2
-import time
-import numpy as np
 import mediapipe as mp
 
 
